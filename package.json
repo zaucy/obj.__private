@@ -1,0 +1,31 @@
+{
+  "name": "obj.__private",
+  "version": "1.0.0",
+  "description": "Create class private members with a clean syntax.",
+  "main": "src/main.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zaucy/__private.git"
+  },
+  "keywords": [
+    "__private",
+    "private",
+    "class"
+  ],
+  "author": "Ezekiel Warren",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zaucy/__private/issues"
+  },
+  "homepage": "https://github.com/zaucy/__private#readme",
+  "peerDependencies": {
+    "es6-symbol": "^3.1.0"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.5.3"
+  }
+}
